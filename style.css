@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    border-top: 1px solid; 
+    height: 100vh;
+    background-color: #f1f1f1;
+
+}
+.vl {
+    border-left: 1px solid;
+    height: 500vh;
+    position: absolute;
+    left: 5%;
+    margin-left: -3px;
+    top: 0;
+    border-right: 1px solid;
+    height: 500vh;
+    position: absolute;
+    right: 5%;
+    margin-right: -3px;
+    
+  }
+
