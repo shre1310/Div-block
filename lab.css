@@ -86,5 +86,8 @@ body{
       display: flex;
 
   }
-
+  .input{
+      text-align: center;
+      padding-top: 150rem;
+  }
   
