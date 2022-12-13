@@ -8,6 +8,9 @@ body{
     background-color: #ffffff;
 
 }
+nav{
+    border-bottom: 1px solid black;
+}
 .vl {
     border-left: 1px solid;
     height: 500vh;
