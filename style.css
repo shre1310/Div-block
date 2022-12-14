@@ -8,9 +8,7 @@ body{
     background-color: #ffffff;
 
 }
-nav{
-    border-bottom: 1px solid black;
-}
+
 .vl {
     border-left: 1px solid;
     height: 500vh;
@@ -25,8 +23,20 @@ nav{
     margin-right: -3px;
     
   }
+  
   .flex{
     display: flex;
-    gap:  var(--gap, 1rem);
+    gap:  var(--gap, 1.5rem);
+    padding-left: 2%;
+
+  }
+nav ul li{
+   list-style-type: none;
+   padding-right: 0%;
+  }
+  nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
   }
   
